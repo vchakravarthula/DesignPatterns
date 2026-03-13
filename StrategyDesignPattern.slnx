@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="StrategyDP/StrategyDP.csproj" />
+  <Project Path="WeatherObserver/WeatherObserver.csproj" Id="0752431b-b414-447a-a0e1-be72f51c2edf" />
 </Solution>
