@@ -6,6 +6,6 @@ namespace WeatherObserver.Observer
 {
     public interface IObserver
     {
-        public void Update();
+        public void Update(float temperature, float humidity, float pressure);
     }
 }
